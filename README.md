@@ -1,4 +1,4 @@
-# PRAKTIKUM 4 : BUTTON COUNTER 🚀
+# PRAKTIKUM 4 (TUGAS 2): BUTTON COUNTER 🚀
 
 - **Nama:** Sonia Debora Napitupulu  
 - **NPM:** 4523210105
