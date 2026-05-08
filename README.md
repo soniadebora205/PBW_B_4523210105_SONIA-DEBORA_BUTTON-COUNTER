@@ -1,17 +1,11 @@
-# bongcha_spa_project
+# PRAKTIKUM 4 : BUTTON COUNTER 🚀
 
-A new Flutter project.
+- **Nama:** Sonia Debora Napitupulu  
+- **NPM:** 4523210105
+- **Mata Kuliah:** Pemrograman Berbasis Mobile (B)
+- **Dosen Pengampu:** Rizki Hesanada, S.Kom., M.Kom.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📝 TUGAS: 
+Membuat satu _page_ yang berisikan _text_ dan _button_, dengan fungsi sebagai _counter_ atau menghitung ketika tombol/_button_ berlogo _plus_ di-klik. Setiap kali tombol ditekan, maka angka akan otomatis bertambah 1.
